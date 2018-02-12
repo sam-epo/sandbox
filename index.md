@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+# SaM Solutions @ Search and Khowledge house rules
 
-You can use the [editor on GitHub](https://github.com/sam-epo/index/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Presence
+### Timesheet
+### Vacation
+### Sick leave
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Organizational structure
 
-### Markdown
+## Useful links
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
